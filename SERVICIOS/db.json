@@ -1,0 +1,36 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "Avengers",
+      "estreno": "2018",
+      "genero": "Accion",
+      "duracion": "1 h 45 m",
+      "calificacion": 8
+    },
+    {
+      "id": 2,
+      "nombre": "Spider man sin camino a casa",
+      "estreno": 2021,
+      "genero": "Aventura",
+      "duracion": "2h 28m",
+      "calificacion": 9
+    },
+    {
+      "id": 3,
+      "nombre": "Sonic 2",
+      "estreno": "2022",
+      "genero": "Aventura",
+      "duracion": "2h 2m",
+      "calificacion": 8
+    },
+    {
+      "id": 4,
+      "nombre": "Rapidos y Furiosos 9",
+      "estreno": "2021",
+      "genero": "Accion - Carrera",
+      "duracion": "2h 21m",
+      "calificacion": 7
+    }
+  ]
+}
